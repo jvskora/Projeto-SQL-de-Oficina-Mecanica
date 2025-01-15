@@ -58,5 +58,5 @@ Consultas: Exemplos de consultas SQL para extrair relatórios de serviços e pe�
 Contribuições
 Se você quiser contribuir para este projeto, fique à vontade para enviar um pull request. Verifique a documentação e as issues abertas para mais informações sobre como contribuir.
 
-##Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+## Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo “LICENSE” para mais detalhes.
