@@ -15,8 +15,6 @@ O banco de dados foi modelado utilizando um diagrama Entidade-Relacionamento (ER
 
 ## Funcionalidades
 
-## Funcionalidades
-
 - **Gestão de Clientes (Pessoa Física e Jurídica)**: 
   - A tabela `cliente` armazena informações detalhadas sobre os clientes, como nome, tipo de cliente (PF ou PJ), e dados de contato (telefone e e-mail).
   - O sistema permite que o status do cliente seja "Ativo" ou "Inativo", além de atribuir um nível de fidelidade (como "Bronze", "Prata", "Ouro"), com pontuação de fidelidade associada.
