@@ -48,8 +48,9 @@ O banco de dados contém as seguintes tabelas:
 
 3. Para consultar ou modificar os dados, você pode usar o MySQL Workbench ou ferramentas similares.
 
-##Scripts SQL
-Este repositório inclui scripts SQL para:
+## Scripts SQL
+
+## Este repositório inclui scripts SQL para:
 
 Criação das tabelas: Scripts que criam todas as tabelas e seus relacionamentos.
 Inserção de dados: Scripts com dados exemplo para facilitar os testes e demonstrações do banco de dados.
